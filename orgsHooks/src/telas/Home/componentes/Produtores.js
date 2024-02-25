@@ -39,5 +39,8 @@ const estilos = StyleSheet.create({
         marginTop: 16,
         fontWeight: 'bold',
         color: '#464646',
+    },
+    flatLista: {
+        backgroundColor: '#FFF',
     }
 });
