@@ -11,7 +11,7 @@ const produtores = {
     lista: [
         {
             id: 1,
-            nome: "Fazenda do João",
+            nome: "Green",
             descricao: "Produtos orgânicos e de qualidade",
             imagem: green,
             distancia: `${gerarNumeroAleatorio(1, 500)}m`,
@@ -19,7 +19,7 @@ const produtores = {
         },
         {
             id: 2,
-            nome: "Sítio da Maria",
+            nome: "Salad",
             descricao: "Produtos frescos e de qualidade",
             imagem: salad,
             distancia: `${gerarNumeroAleatorio(1, 500)}m`,
@@ -27,7 +27,7 @@ const produtores = {
         },
         {
             id: 3,
-            nome: "Chácara do José",
+            nome: "Jenny Jack",
             descricao: "Produtos naturais e de qualidade",
             imagem: jennyJack,
             distancia: `${gerarNumeroAleatorio(1, 500)}m`,
@@ -35,7 +35,7 @@ const produtores = {
         },
         {
             id: 4,
-            nome: "Fazenda do Pedro",
+            nome: "Grow",
             descricao: "Produtos frescos e de qualidade",
             imagem: grow,
             distancia: `${gerarNumeroAleatorio(1, 500)}m`,
@@ -43,7 +43,7 @@ const produtores = {
         },
         {
             id: 5,
-            nome: "Sítio da Ana",
+            nome: "Potager",
             descricao: "Produtos naturais e de qualidade",
             imagem: potager,
             distancia: `${gerarNumeroAleatorio(1, 500)}m`,
