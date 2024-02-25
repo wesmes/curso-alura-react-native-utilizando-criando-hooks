@@ -7,7 +7,7 @@ import potager from '../assets/produtores/potager.png';
 const gerarNumeroAleatorio = (min, max) => Math.floor(Math.random() * (max - min) + min);
 
 const produtores = {
-    titulos: "Produtores",
+    titulo: "Produtores",
     lista: [
         {
             id: 1,
