@@ -4,7 +4,6 @@ import jennyJack from '../assets/produtores/jenny-jack.png';
 import grow from '../assets/produtores/grow.png';
 import potager from '../assets/produtores/potager.png';
 
-
 const gerarNumeroAleatorio = (min, max) => Math.floor(Math.random() * (max - min) + min);
 
 const produtores = {
@@ -52,3 +51,5 @@ const produtores = {
         },
     ]
 }
+
+export default produtores;

@@ -46,12 +46,12 @@ const estilos = StyleSheet.create({
         fontSize: 26,
         lineHeight: 42,
         fontWeight: 'bold',
-        color: '#000',
+        color: '#464646',
     },
     legenda: {
         fontSize: 16,
         lineHeight: 26,
-        color: '#000',
+        color: '#A3A3A3',
     },
 });
 
